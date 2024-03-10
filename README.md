@@ -1,4 +1,4 @@
-# Sports Car Comparator
+# Sports Car Similarity
 
 This Python script provides an intuitive way to find cars similar to a target vehicle based on performance metrics. By analyzing a dataset of sports cars, the script calculates the Euclidean distance between the target car's specifications and those of other cars in the dataset, identifying the most similar cars based on engine size, horsepower, torque, and acceleration time.
 
