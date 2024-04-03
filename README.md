@@ -5,6 +5,7 @@ This Python script provides an intuitive way to find cars similar to a target ve
 ## Complimentary Medium Post
 Here is a link to my Medium post describing my processes and the insights that can be drawn from it: <br /> 
 https://medium.com/inst414-data-science-tech/what-cars-are-most-similar-ba80049f0240
+
 ## Features
 
 - **Data Cleaning and Formatting**: Prepares the dataset by removing duplicates and ensuring numerical data is correctly formatted.
