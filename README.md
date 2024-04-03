@@ -2,6 +2,9 @@
 
 This Python script provides an intuitive way to find cars similar to a target vehicle based on performance metrics. By analyzing a dataset of sports cars, the script calculates the Euclidean distance between the target car's specifications and those of other cars in the dataset, identifying the most similar cars based on engine size, horsepower, torque, and acceleration time.
 
+## Complimentary Medium Post
+Here is a link to my Medium post describing my processes and the insights that can be drawn from it: <br /> 
+https://medium.com/inst414-data-science-tech/what-cars-are-most-similar-ba80049f0240
 ## Features
 
 - **Data Cleaning and Formatting**: Prepares the dataset by removing duplicates and ensuring numerical data is correctly formatted.
